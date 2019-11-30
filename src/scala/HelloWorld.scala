@@ -1,8 +1,5 @@
 package scala
 
-import scala.io.StdIn
-import scala.math
-
 /**
   * @author HaoxuanLi  Github:bestksl
   * @version created date：2019-11-10 01:02
@@ -14,6 +11,12 @@ object HelloWorld {
     else
       null
   }
+
+  implicit def ff(d: Double): Int = {
+    d.toInt
+  }
+
+  val a: Int = 3.77
 
   private def m2(a: Int, b: Int) = {
     if (a + b == 10)

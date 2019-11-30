@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1c063f1-3535-4380-a2f5-98a908b23742" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scala/ImportDemo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scala/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scala/test.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/blog.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/AA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/BB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/CC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/DD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/EE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/FF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/KK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/MixInSeq$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/MixInSeq$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/MixInSeq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/scala/HelloWorld$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaDemo/scala/HelloWorld$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/scala/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaDemo/scala/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/HelloWorld.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/HelloWorld.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scala/ImportDemo.scala" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scala/HelloWorld.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="162">
+              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/scala/test.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -34,8 +56,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Scala Object" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,11 +70,13 @@
         <option value="$PROJECT_DIR$/src/HelloWorld.scala" />
         <option value="$PROJECT_DIR$/src/scala/Fibonacci.scala" />
         <option value="$PROJECT_DIR$/src/scala/blog.java" />
-        <option value="$PROJECT_DIR$/src/scala/HelloWorld.scala" />
         <option value="$PROJECT_DIR$/src/scala/blog.scala" />
         <option value="$PROJECT_DIR$/src/scala/BeanPropertDemo.scala" />
         <option value="$PROJECT_DIR$/src/scala/ImportDemo.java" />
+        <option value="$PROJECT_DIR$/src/scala/HelloWorld.scala" />
         <option value="$PROJECT_DIR$/src/scala/ImportDemo.scala" />
+        <option value="$PROJECT_DIR$/src/scala/test.java" />
+        <option value="$PROJECT_DIR$/src/scala/test.scala" />
       </list>
     </option>
   </component>
@@ -68,8 +92,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,30 +141,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MixInSeq">
-    <configuration name="AddTraits" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="AddTraits" />
+  <component name="RunManager" selected="Application.test (1)">
+    <configuration name="ArrayBuffer2JavaList" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayBuffer2JavaList" />
       <module name="ScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApplyDemo01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ApplyDemo01" />
+    <configuration name="ImplicitDemo02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ImplicitDemo02" />
       <module name="ScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MixInDemo01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="MixInDemo01" />
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scala.test" />
       <module name="ScalaDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MixInSeq" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="MixInSeq" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="ScalaDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MixInSeq" />
-        <item itemvalue="Application.AddTraits" />
-        <item itemvalue="Application.MixInDemo01" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.ArrayBuffer2JavaList" />
+        <item itemvalue="Application.ImplicitDemo02" />
         <item itemvalue="Scala Console.Scala Console" />
-        <item itemvalue="Application.ApplyDemo01" />
       </list>
     </recent_temporary>
   </component>
@@ -181,24 +211,25 @@
       <workItem from="1573942997837" duration="1747000" />
       <workItem from="1573958488509" duration="3282000" />
       <workItem from="1574113556776" duration="10891000" />
+      <workItem from="1574630970108" duration="26857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58369000" />
+    <option name="totallyTimeSpent" value="85226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2877551" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44387755" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -218,6 +249,34 @@
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2877551" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32857144" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -238,13 +297,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scala/ImportDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scala/a.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -259,10 +311,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.13.1-sources.jar!/scala/jdk/CollectionConverters.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1312">
+          <caret line="92" column="7" lean-forward="true" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/scala/HelloWorld.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="162">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scala/test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
         </state>
       </provider>
     </entry>
