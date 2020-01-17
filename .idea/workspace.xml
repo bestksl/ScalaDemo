@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1c063f1-3535-4380-a2f5-98a908b23742" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scala/test.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/AA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/BB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/CC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/DD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/EE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/FF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/KK.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/MixInSeq$$anon$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/MixInSeq$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/MixInSeq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScalaDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ScalaDemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/scala/HelloWorld$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaDemo/scala/HelloWorld$.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ScalaDemo/scala/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ScalaDemo/scala/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/HelloWorld.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/scala/HelloWorld.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scala/ImportDemo.scala" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +50,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.test (1)">
     <configuration name="ArrayBuffer2JavaList" type="Application" factoryName="Application" temporary="true">
@@ -149,7 +137,8 @@
       <workItem from="1573958488509" duration="3282000" />
       <workItem from="1574113556776" duration="10891000" />
       <workItem from="1574630970108" duration="26857000" />
-      <workItem from="1579212635925" duration="104000" />
+      <workItem from="1579212635925" duration="737000" />
+      <workItem from="1579216175349" duration="1245000" />
     </task>
     <servers />
   </component>
@@ -157,18 +146,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="655" y="429" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1579212744650">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="655" y="429" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1579212744650" />
     <state x="704" y="403" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579212653058">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="704" y="403" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1579212653058" />
-    <state x="536" y="255" key="FileChooserDialogImpl" timestamp="1579212731074">
+    <state x="536" y="255" key="FileChooserDialogImpl" timestamp="1579213365544">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="536" y="255" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1579212731074" />
-    <state x="334" y="89" key="SettingsEditor" timestamp="1579212738468">
+    <state x="536" y="255" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1579213365544" />
+    <state width="1663" height="383" key="GridCell.Tab.0.bottom" timestamp="1579216940965">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
-    <state x="334" y="89" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1579212738468" />
+    <state width="1663" height="383" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1579216940965" />
+    <state width="1663" height="383" key="GridCell.Tab.0.center" timestamp="1579216940965">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="383" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1579216940965" />
+    <state width="1663" height="383" key="GridCell.Tab.0.left" timestamp="1579216940964">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="383" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1579216940964" />
+    <state width="1663" height="383" key="GridCell.Tab.0.right" timestamp="1579216940965">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1663" height="383" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1579216940965" />
+    <state x="334" y="89" key="SettingsEditor" timestamp="1579213372681">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="334" y="89" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1579213372681" />
     <state x="542" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1579212642385">
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
